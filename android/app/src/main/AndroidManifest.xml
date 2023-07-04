@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_web_app">
+    package="io.codemagic.dtrdic11">
    <application
         android:label="flutter_web_app"
         android:name="${applicationName}"
